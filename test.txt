@@ -1,1 +1,2 @@
 checking git sync and updates
+new commit check
