@@ -1,3 +1,3 @@
 checking git sync and updates passed
 new commit check passed
-specific file change sync only 
+specific file change sync only test2
